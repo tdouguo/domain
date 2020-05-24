@@ -1,0 +1,4 @@
+aliyun-python-sdk-core==2.13.16
+aliyun-python-sdk-domain==3.14.2
+aliyunsdkcore==1.0.3
+numpy==1.18.4
