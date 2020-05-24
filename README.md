@@ -10,3 +10,8 @@ kill -s 9 pid号 杀死pid程序
 
 后台运行
 nohup python3 alisdk_domain.py > run.log 2>&1 &
+
+
+# 查找完的结果分析
+
+https://mp.weixin.qq.com/s/HyiPg0yuy28ssZcWaE3AGg
